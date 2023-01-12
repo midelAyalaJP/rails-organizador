@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "cocoon": "github:nathanvda/cocoon#c24ba53",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "roboto-fontface": "^0.10.0"
+  }
+}
